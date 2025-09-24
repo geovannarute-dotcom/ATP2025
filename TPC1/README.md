@@ -16,5 +16,6 @@ Blocky Games: Turtle Level 10 - Desenhar o comboio
 Link para consultar a resolução: https://blockly.games/turtle?lang=pt-br&level=10#hjwjc4
 
 Prinscreen Blocky Games: Turtle Level 10 - Desenhar o comboio
-TPC1/image.png
+<img width="886" height="400" alt="image" src="https://github.com/user-attachments/assets/d5efe8d4-02b0-402e-a35a-bc8b9963f7fc" />
+
 
