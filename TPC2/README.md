@@ -1,4 +1,6 @@
-#TPC 2 - Jogo dos 21 fósforos
+#TPC2 
+
+Geovanna Rute Cunha Simões; A94364
 
 Implementação em Python do jogo dos 21 fósforos.
 
