@@ -11,11 +11,11 @@ Em cada jogada, pode-se tirar entre 1 e 4 fósforos.
 Quem tirar o último fósforo perde.
 
 # Como jogar
-Ao iniciar, escolhe quem começa: `utilizador` ou `computador`.
+Ao iniciar, escolher quem começa: `utilizador` ou `computador`.
 O programa mostra quantos fósforos restam.
 O utilizador escolhe quantos fósforos tirar.
-O computador joga automaticamente.
-O jogo termina quando não houver fósforos e indica quem perdeu.
+O computador joga.
+O jogo termina quando não houver fósforos.
 
 # Como executar
 Abrir o ficheiro `TPC2.py` no Python.
