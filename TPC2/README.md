@@ -1,5 +1,4 @@
-#TPC 2
-#Jogo dos 21 fósforos
+#TPC 2 - Jogo dos 21 fósforos
 
 Implementação em Python do jogo dos 21 fósforos.
 
