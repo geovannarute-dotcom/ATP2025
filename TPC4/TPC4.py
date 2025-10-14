@@ -115,6 +115,6 @@ def aplicacao():
         else:
             print("Opção inválida.")
 
-# Inicia a aplicação
 if __name__ == "__main__":
     aplicacao()
+
